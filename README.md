@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![]article_preview_component_screenshot.png
+article_preview_component_screenshot.png
 
 ### Links
 
-- Solution URL: [Github respository files](https://your-solution-url.com)
-- Live Site URL: [Interactive rating component solution](https://your-live-site-url.com)
+- Solution URL: [Github respository files](https://github.com/EJMK18/FEM-article-preview-component)
+- Live Site URL: [Article Preview Component Solution](https://ejmk18.github.io/FEM-article-preview-component/)
 
 ## My process
 
