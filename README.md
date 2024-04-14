@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-article_preview_component_screenshot.png
+![ScreenShot]article_preview_component_screenshot.png
 
 ### Links
 
